@@ -1,0 +1,6 @@
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/bin/Debug/Assignment.exe
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/bin/Debug/Assignment.pdb
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/obj/x86/Debug/Assignment.csprojAssemblyReference.cache
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/obj/x86/Debug/Assignment.csproj.CoreCompileInputs.cache
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/obj/x86/Debug/Assignment.exe
+/Users/thiagohissa/Desktop/CurrentSemester/Assignment/Assignment/obj/x86/Debug/Assignment.pdb
